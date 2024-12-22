@@ -57,5 +57,4 @@ tino_hw_2/
 
 ## GIF
 
-![result](https://github.com/TinoChen105/tino_hw_2/blob/main/result.gif)
-
+![result](https://github.com/TinoChen105/tino_hw_2/blob/main/results.gif?raw=true)
