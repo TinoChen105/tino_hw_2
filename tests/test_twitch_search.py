@@ -26,8 +26,8 @@ def test_search_twitch_streamer(driver):
     search_page.search_game_and_select("StarCraft II")
     # Step 4
     category_page.assert_streamers_are_visible()
-    driver.execute_script("window.scrollBy(0, 10);")
-    driver.execute_script("window.scrollBy(0, 10);")
+    driver.execute_script("window.scrollBy(0, 20);")
+    driver.execute_script("window.scrollBy(0, 20);")
     # Step 5
     category_page.select_random_streamer_on_page()
     # Step 6

@@ -8,7 +8,7 @@ Before running the test, ensure the following are installed and configured:
 
 - **Python 3.10.6**
 - **Google Chrome** browser
-- **ChromeDriver** (compatible with your Chrome version) `brew install chromedriver --cask`
+- **ChromeDriver** (compatible with your Chrome version) - install using: `brew install chromedriver --cask`
 - **Selenium**, **Pytest**, **python-dotenv** Python libraries
 
 To install the required Python libraries, use the following command:
@@ -20,9 +20,9 @@ pip install -r requirements.txt
 
 ## **Setup Instructions**
 
-1. Clone this repository
-2. Navigate to the project directory:
-3. Edit .env file to define your chromedriver location.
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Edit the .env file to specify your ChromeDriver location.
 
 ---
 
@@ -52,4 +52,10 @@ tino_hw_2/
 ├── requirements.txt                # Python dependencies
 └── .env                            # Files to set environments
 ```
+
+---
+
+## GIF
+
+![result](https://github.com/TinoChen105/tino_hw_2/blob/main/result.gif)
 
